@@ -1,20 +1,23 @@
-BloodCall
-Google Technologies Used
-Google Mobile Services
-Mobile Vision SDK
-Tasks
-ZXing core
-Gson
-Guava
-Android SDK
-Google Maps Platform
-Maps SDK for Android
-Geocoding API
-Google Firebase
-Realtime Database
-Authentication
-Cloud Messaging
-Cloud Functions
+=> BloodCall
+=> Google Technologies Used
+=> Google Mobile Services
+=> Mobile Vision SDK
+=> Tasks
+=> ZXing core
+=> Gson
+=> Guava
+=> Android SDK
+=> Google Maps Platform
+=> Maps SDK for Android
+=> Geocoding API
+=> Google Firebase
+=> Realtime Database
+=> Authentication
+=> Cloud Messaging
+=> Cloud Functions
+
+
+
 ❇️ Application Features ❇️:
 🩸 Access map with hospitals and blood donation events in real time!
 🩸 Get alerted for emergency blood needed!
@@ -33,14 +36,13 @@ Cloud Functions
 
 
 
-![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/7802416b-2f2c-45ff-9471-4afc777a64c3)
-![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/acb65639-37d3-4505-a57c-fb8fc03bb3c5)
-![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/4b45cdfe-2f0b-4fe7-8f1d-50034c55fd5c)
-![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/e93026af-77f6-4710-848e-7b1d08d550f2)
-![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/9750c689-65e4-4e5b-af67-79e4c936b37b)
-![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/20ea334b-7535-4896-965c-8634300ca756)
-![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/9773bc1e-4be5-4534-9fde-953336452bb6)
-![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/cc26cd9c-fa29-4bb3-984b-03417a5be08a)
-
+![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/7802416b-2f2c-45ff-9471-4afc777a64c3){:width="200px"}
+![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/acb65639-37d3-4505-a57c-fb8fc03bb3c5){:width="200px"}
+![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/4b45cdfe-2f0b-4fe7-8f1d-50034c55fd5c){:width="200px"}
+![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/e93026af-77f6-4710-848e-7b1d08d550f2){:width="200px"}
+![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/9750c689-65e4-4e5b-af67-79e4c936b37b){:width="200px"}
+![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/20ea334b-7535-4896-965c-8634300ca756){:width="200px"}
+![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/9773bc1e-4be5-4534-9fde-953336452bb6){:width="200px"}
+![image](https://github.com/DhruvkumarMashru/BloodCall/assets/104681256/cc26cd9c-fa29-4bb3-984b-03417a5be08a){:width="200px"}
 
 
